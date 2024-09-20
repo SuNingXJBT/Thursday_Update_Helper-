@@ -37,4 +37,6 @@ Method 2: Or use Adguard-dns home to rewrite DNS
 
 This eFootball_liveUpdateHelper tool is shared in group : https://t.me/eFootballxjbt
 
+published link: https://t.me/efootballCheaterReport/198
+
 Run this tool as administrator. It will do all the manual steps. Rewrite the hosts file. Delete the hidden directory if needed.
