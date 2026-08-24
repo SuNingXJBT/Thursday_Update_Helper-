@@ -1,4 +1,7 @@
 # Thursday_Update_Helper-
+
+相关工具在 QQ群143552766 分享。 贴吧ID： nanjingXJBT
+
 Resolve the eFootball's update issue on every Thursday.
 
 Every Thursday, Konami will release a new live update. But not all the players can update
